@@ -1,0 +1,7 @@
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\bin\Debug\Projeto-teste.exe.config
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\bin\Debug\Projeto-teste.exe
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\bin\Debug\Projeto-teste.pdb
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.csprojAssemblyReference.cache
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.csproj.CoreCompileInputs.cache
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.exe
+C:\Users\fpcosta\Desktop\Outros\Projeto-teste\Projeto-teste\obj\Debug\Projeto-teste.pdb
